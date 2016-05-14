@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DjA]]></title>
         <description><![CDATA[DjA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 00:58:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 01:00:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dja/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4720c3-f886-45ea-ab0b-6d153b0a63e3.jpg">]]></description>
+            <link>https://thegrid.ai/dja/d1e8a502-ff30-4aa4-a72f-482c7f6df62d/index.html</link>
+            <guid isPermaLink="false">d1e8a502-ff30-4aa4-a72f-482c7f6df62d</guid>
+            <pubDate>Sat, 14 May 2016 01:00:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebde579e-e28a-405e-9a29-c00762061439.jpg">]]></description>
-            <link>undefinedla-douche-personal-project-film-stills-an-essay-describi/index.html</link>
+            <link>https://thegrid.ai/dja/la-douche-personal-project-film-stills-an-essay-describi/index.html</link>
             <guid isPermaLink="false">26c7fbf8-67d6-41e3-847c-53757fa883c8</guid>
             <pubDate>Sat, 14 May 2016 00:57:40 GMT</pubDate>
         </item>
