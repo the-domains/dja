@@ -1,0 +1,28 @@
+name: DjA
+favicon: null
+layout_spectrum: 0.5785261567216367
+typography_spectrum: 0.9884921568445861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.44659954449161887
+  lightness: 0.3660637238062918
+  saturation: 0.15491947205737233
+  rhythmicContrast: 0.078011907171458
+purpose: []
